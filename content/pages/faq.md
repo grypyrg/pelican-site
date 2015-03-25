@@ -4,8 +4,8 @@ Title: FAQ
 Social media & Contacts
 ------------------------
 
--   __irc__ : server freenode channel #load
--   __twitter__ : [@loadays](https://twitter.com/loadays) and during the conference we will use the hashtag #load14
+-   __irc__ : server freenode channel #loadays
+-   __twitter__ : [@loadays](https://twitter.com/loadays) and during the conference we will use the hashtag #loadays
 -   __flickr__ : If you make any pictures you want to post to flickr (or another picture site), please use the tag 'loadays'
 
 
